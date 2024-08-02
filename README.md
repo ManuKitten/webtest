@@ -1,2 +1,2 @@
 # webtest
-Personal test for website
+A quick test for making a website that I tried to do.
